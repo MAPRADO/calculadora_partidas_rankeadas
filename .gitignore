@@ -1,0 +1,6 @@
+# ignore all .pdf files
+*.pdf
+id_calculadora
+id_calculadora.pub
+teste.js
+teste.py
