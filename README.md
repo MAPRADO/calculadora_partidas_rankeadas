@@ -25,7 +25,7 @@
 > Se vitórias for maior ou igual a 101 = Imortal<br>
 
 <br>
-✂️ Vamos considerar um limite de **150**, apenas para poder fazer o cálculo randômico é necessario o valor<br>
+✂️ Vamos considerar um limite de 150, apenas para poder fazer o cálculo randômico é necessario o valor<br>
 máximo para o cálculo.<br>
 
   
